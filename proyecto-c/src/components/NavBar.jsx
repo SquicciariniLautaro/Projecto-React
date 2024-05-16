@@ -36,6 +36,9 @@ return (
                 Contacto
                 </a>
             </li>
+            <li class= "cart">
+                🛒
+                </li>
             
             </ul>
         </div>
